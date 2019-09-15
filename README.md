@@ -1,5 +1,8 @@
-# system_viewer
+# system_viewer  
 Django experiment and learning.
 
-##Introduction
-Some updates to follow after lunch...
+Introduction
+============
+Runs on port 8000 by default
+
+% python manage.py runserver 0.0.0.0:8000
